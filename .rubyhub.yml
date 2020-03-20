@@ -5,6 +5,8 @@ template:
       - bug
     assignees:
       - Ahontic
+    reviewers:
+      - Bulatkin
 #       - github
 #       - assignees
 #       - you
@@ -17,7 +19,7 @@ template:
 #       - want
     description_main_body: describe your changes here
 #     jira_base_url: https://sample.atlassian.net/browse/
-    # push: false
+    push: true
     open: true
 #   backend:
 #     <<: *default
