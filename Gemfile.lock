@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/Volosh1n/rubyhub-1.git
+  revision: f0b7b6cc723cab47af401c87dc39ec4676971c57
+  branch: dependabot-rubocop
+  specs:
+    rubyhub (0.1.8)
+      thor
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -240,6 +248,7 @@ DEPENDENCIES
   rails (~> 6.0.2, >= 6.0.2.1)
   rspec
   rubocop
+  rubyhub!
   sass-rails (>= 6)
   selenium-webdriver
   spring
